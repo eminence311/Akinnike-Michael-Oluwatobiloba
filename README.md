@@ -61,30 +61,35 @@ Royal Commonwealth Society Associate fellow and many more.</p>
 <ul><li>Admitted into Noblevine College, Mowe</li></ul>
 <h1>2008</h1>
 <ul><li>Graduated after passing the National Examination Council Exam</li></ul>
+
 <h1>2011</h1>
 <ul><li>Admitted to study Computer Science/Mathematics at National Open University</li>
 <li>Founded Young Protege Leadership Foundation</li></ul>
-<h1>2015</h1>
+
 <!--2015 Timeline-->
+<h1>2015</h1>
 <ul><li>Selected as a Tech-Camp West-Africa fellow</li></ul>
+
 <!--2016 Timeline-->
 <h1>2016</h1>
 <ul><li>Selected as a UN Global Education First Peacebuilding Participant in Jordan</li>
-<li>Designed the first African Leadership board game <a href="www.game.youngprotegelead.org">Protege LEAD game</li>
+<li>Designed the first African Leadership board game <a href="www.game.youngprotegelead.org">Protege LEAD game</a></li>
 <li>Youth Action Net Fellow</li>
 <li>LEAP Africa Social innovator Program Fellow</li></ul>
+
 <!--2017 Timeline-->
 <h1>2017</h1>
 <ul><li>Attended UN GEFI Workshop for 40 Outstanding Advocate in Moldova</li>
 <li>Selected Tony Elumelu Entrepreneurship Fellow</li>
 <li>Software Engineering: Introduction to JAVA and JAVA programming.</li>
-<li>Launched first book titled:<a href="https://okadabooks.com/book/about/the_eagles_flight/20579">Eagles Flight</li></ul>
+<li>Launched first book titled: <a href="https://okadabooks.com/book/about/the_eagles_flight/20579">Eagles Flight</a></li></ul>
 <!--2018 Timeline-->
 <h1>2018</h1>
 <ul><li>Daystar Leadership Academy Advance Certificate</li></ul>
 <!--2019 Timeline-->
 <h1>2019</h1>
 <ul><li>Business Analyst/IT Support(Intern)</li></ul>
+
 <h1><a href="about.html" id="Work Experience">Work Experience</a></h1>
 <h2>Executive Director/Founder</h2>
 <p>Young Protege Leadership Foundation</p>
