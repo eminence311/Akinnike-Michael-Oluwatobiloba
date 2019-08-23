@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
   <head>
@@ -132,7 +131,6 @@ Royal Commonwealth Society Associate fellow and many more.</p>
 <img src="./REFINING-FIRE.jpg" alt="Process of refining gold image" width="1800" height="400" > 
 <p>copyright&copy;2019</p>
 
-<a href="#TA">Back to top</a>>
-    </body>
+<a href="#TA">Back to top</a>
     </html>
  
