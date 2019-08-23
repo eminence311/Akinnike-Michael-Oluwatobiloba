@@ -43,7 +43,7 @@ Royal Commonwealth Society Associate fellow and many more.</p>
 
 <h1>About Michael</h1>
 
-<img src="./image/DSC_0637 - Copy.JPG" height="260" width="300" alt="Akinnike Michael"> 
+<img src="./DSC_0637 - Copy.JPG" height="260" width="300" alt="Akinnike Michael"> 
 <br>
 <h1><a href="about.html" id="About">About</a></h1>
 <h1>1991</h1>
@@ -122,7 +122,7 @@ Royal Commonwealth Society Associate fellow and many more.</p>
 <li>Networking</li>
 <li>Writing</li>
 <li>Learning</li></ul>
-<img src="./image/REFINING-FIRE.jpg" alt="Process of refining gold image" width="1800" height="400" > 
+<img src="./REFINING-FIRE.jpg" alt="Process of refining gold image" width="1800" height="400" > 
 <p>copyright&copy;2019</p>
 
 <a href="#TA">Back to top</a>>
