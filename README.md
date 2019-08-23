@@ -19,7 +19,6 @@
       <li><a href="contact.html">Contact</a></li>-->
     </ul>
 </head>
-</body>
 <h1>
 Akinnike Michael Oluwatobiloba 
 </h1>
@@ -31,6 +30,7 @@ Akinnike Michael Oluwatobiloba
 <a href="michaelakinnike@gmail.com">Email</a>
 <a href="https://www.linkedin.com/in/akinnike-michael-oluwatobilob-57686695/">linkedin</a>
 <a href="https://www.twitter.com/@michaelakinnike">Twitter</a>
+<a href="https://twitter.com/michaelakinnike/status/1164508212135116801">Flutterwave Post on Twitter</a>
 <br><img src="https://res.cloudinary.com/diu1lnede/image/upload/v1566226520/sample.jpg" height="400" width="1800" alt="Akinnike Michael" id="TA"> 
 <p> Akinnike Michael Oluwatobiloba is young change maker with the 
 for education andleadership. At 16, he lost his father which made 
