@@ -4,18 +4,23 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Akinnike Michael Oluwatobiloba</title>
+    <title>Akinnike Michael Oluwatobiloba</title><br>
+  <nav>
+    <a href="/index.html/">Home</a> |
+    <a href="/about.html/">About</a> |
+    <a href="/my project.html/">My Project</a> |
+    <a href="/contact.html/">Contact</a>
+  </nav>
+  <!--Link to each section of CV-->
     <ul>
-      <li><a href="index.html">Home</a></li>
-     <li><a href="#About">About</a></li>
-     <li><a href="#Work Experience">Work Experience</a></li>
-     <li><a href="#Language">Language</a></li>
-     <li><a href="#Skill">Skill</a></li>
-     <li><a href="#Certificate">Certificate</a></li>
-     <li><a href="#Fellowship">Fellowship</a></li>
-     <li><a href="#Interest">Interest</a></li>
-     <!-- <li><a href="myproject.html">My Project</a></li>
-      <li><a href="contact.html">Contact</a></li>-->
+     <li><a href="#About">About</a></li> 
+     <li><a href="#Work Experience">Work Experience</a></li> 
+     <li><a href="#Language">Language</a></li> 
+     <li><a href="#Skill">Skill</a></li> |
+     <li><a href="#Certificate">Certificate</a></li> 
+     <li><a href="#Fellowship">Fellowship</a></li> 
+     <li><a href="#Interest">Interest</a></li> 
+     <!-- Sections of my CV-->
     </ul>
 </head>
 <h1>
@@ -26,11 +31,11 @@ Akinnike Michael Oluwatobiloba
   A lover, leader and learner. Quick to learn new skills. Have a lots of ideas, enthusiasm
    and thrives in solving problem.</p>
    <p>Tel:09097437862</p>
-<a href="michaelakinnike@gmail.com">Email</a>
-<a href="https://www.linkedin.com/in/akinnike-michael-oluwatobilob-57686695/">linkedin</a>
-<a href="https://www.twitter.com/@michaelakinnike">Twitter</a>
-<a href="https://twitter.com/michaelakinnike/status/1164508212135116801">Flutterwave Post on Twitter</a>
-<a href= "https://lucid.blog/michaelakinnike/post/1566483210">Lucid Post On HTML and Flutterwave</a>
+<nav><a href="michaelakinnike@gmail.com">Email</a> |
+<a href="https://www.linkedin.com/in/akinnike-michael-oluwatobilob-57686695/">linkedin</a> |
+<a href="https://www.twitter.com/@michaelakinnike">Twitter</a> |
+<a href="https://twitter.com/michaelakinnike/status/1164508212135116801">Flutterwave Post on Twitter</a> |
+<a href= "https://lucid.blog/michaelakinnike/post/1566483210">Lucid Post On HTML and Flutterwave</a></nav>
 <br><img src="https://res.cloudinary.com/diu1lnede/image/upload/v1566226520/sample.jpg" height="400" width="1800" alt="Akinnike Michael" id="TA"> 
 <p> Akinnike Michael Oluwatobiloba is young change maker with the 
 for education andleadership. At 16, he lost his father which made 
