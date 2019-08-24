@@ -16,7 +16,7 @@
      <li><a href="#About">About</a></li> 
      <li><a href="#Work Experience">Work Experience</a></li> 
      <li><a href="#Language">Language</a></li> 
-     <li><a href="#Skill">Skill</a></li> |
+     <li><a href="#Skill">Skill</a></li> 
      <li><a href="#Certificate">Certificate</a></li> 
      <li><a href="#Fellowship">Fellowship</a></li> 
      <li><a href="#Interest">Interest</a></li> 
