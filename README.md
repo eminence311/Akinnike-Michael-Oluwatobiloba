@@ -48,7 +48,7 @@ Royal Commonwealth Society Associate fellow and many more.</p>
 
 <h1>About Michael</h1>
 
-<img src="./DSC_0637 - Copy.JPG" height="260" width="300" alt="Akinnike Michael"> 
+<img src="./DSC_0637 - Copy.JPG" height="260" width="300" alt="Akinnike Michael" align="right"> 
 <br>
 <h1><a href="about.html" id="About">About</a></h1>
 <h1>1991</h1>
