@@ -35,7 +35,7 @@ Akinnike Michael Oluwatobiloba
 <a href="https://www.twitter.com/@michaelakinnike">Twitter</a> |
 <a href="https://twitter.com/michaelakinnike/status/1164508212135116801">Flutterwave Post on Twitter</a> |
 <a href= "https://lucid.blog/michaelakinnike/post/1566637551">Lucid Post On HTML and Flutterwave</a></nav>
-<br><img src="https://res.cloudinary.com/diu1lnede/image/upload/v1566226520/sample.jpg" height="400" width="1800" alt="Akinnike Michael" id="TA"> 
+<br><img src="https://res.cloudinary.com/diu1lnede/image/upload/v1566670050/DSC_0631_p9yhda.jpg" height="400" width="1800" alt="Akinnike Michael" id="TA"> 
 <p> Akinnike Michael Oluwatobiloba is young change maker with the 
 for education andleadership. At 16, he lost his father which made 
 him lost all hope on life.He found fulfilment when he committed to 
