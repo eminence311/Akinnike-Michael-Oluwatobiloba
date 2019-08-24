@@ -108,7 +108,9 @@ Royal Commonwealth Society Associate fellow and many more.</p>
 <li>Served as the Change Request Officer in the process of implementing changes in ADAP.</li></ul>
 <h1><a href="about.html" id="Language">Language</a></h1>
 <ul><li>Yoruba</li>
-<li>English</li></ul>
+<li>English</li>
+  <li>French</li>
+  <li>German</li></ul>
 <h1><a href="about.html" id="Skill">Skill</a></h1>
 <ul><li>Creativity</li>
 <li>Leadership</li>
