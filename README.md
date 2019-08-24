@@ -26,7 +26,6 @@
 <h1>
 Akinnike Michael Oluwatobiloba 
 </h1>
-<h2>Change Management Lead</h2>
 <p>A young energetic facilitator, innovator, project manager and trained JAVA programmer. 
   A lover, leader and learner. Quick to learn new skills. Have a lots of ideas, enthusiasm
    and thrives in solving problem.</p>
